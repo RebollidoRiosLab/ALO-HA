@@ -1,4 +1,4 @@
-# ALO•HA – Allergy Linking Oncology Human Analyses
+# Allergy Linking Oncology Human Analyses (ALO•HA)
 
 **ALO•HA** is an interactive **Shiny** application developed by the [RebollidoRiosLab](https://rebollidorioslab.com/)  
 for the AllergoOncology research community. It enables exploration of allergy-related omics data in a publication-aware and biologically contextualized way.
