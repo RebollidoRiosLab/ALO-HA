@@ -79,3 +79,19 @@ Metadata for the **138 curated articles** used as the primary annotation source 
 - **Immunologists** and **allergologists** exploring molecular underpinnings of allergic disorders  
 - **Bioinformaticians** analyzing gene-pathway associations in allergy-oncology interfaces  
 - **Researchers** seeking an interactive, publication-linked tool for filtering, visualization, and analysis of allergy-relevant data
+
+---
+
+## 📚 Citation
+
+If you use this dataset or the ALO•HA app in your research, please cite the associated publication once it becomes available.
+
+---
+
+## ✉️ Contact
+
+For questions, feedback, or requests for additional data, feel free to reach out to:
+
+- **Rocio Rebollido-Rios** — [rocio.rebollido-rios@uni-koeln.de](mailto:rocio.rebollido-rios@uni-koeln.de)  
+- **Andrea Escolar-Peña** — [andrea.escolarpena@ceu.es](mailto:andrea.escolarpena@ceu.es)
+
