@@ -40,7 +40,7 @@ During recalculation, a **fulfilling-square spinner** overlays the entire app in
 
 This repository provides two curated CSV files supporting transparency and reproducibility of the ALO•HA Shiny app:
 
-### 1. [`data/ALOHA_molecule_data.csv`](data/aloha_molecule_data.csv)
+### 1. [`data/aloha_molecule_data.csv`](data/aloha_molecule_data.csv)
 
 A molecule-centric summary containing **451 molecules**, annotated with:
 - The **studies** in which they were reported  
@@ -51,9 +51,9 @@ This file is also available directly within the ALO•HA web application (*Help*
 
 ---
 
-### 2. [`data/ALOHA_articles_metadata.csv`](data/aloha_articles_metadata.csv)
+### 2. [`data/aloha_articles_metadata.csv`](data/aloha_articles_metadata.csv)
 
-Metadata for the **138 curated articles** used as the primary annotation source for ALO•HA. This rigorous selection formed the foundation for all downstream analysis and corresponds to **Table S1** in our paper.
+Metadata for the **138 curated articles** used as the primary annotation source for ALO•HA. This selection is the foundation for all downstream analysis and corresponds to **Table S1** in our paper.
 
 **Included fields:**
 - `pmid` – PubMed ID  
