@@ -53,7 +53,7 @@ This file is also available directly within the ALO•HA web application (*Help*
 
 ### 2. [`data/aloha_articles_metadata.csv`](data/aloha_articles_metadata.csv)
 
-Metadata for the **138 curated articles** used as the primary annotation source for ALO•HA. This selection is the foundation for all downstream analysis and corresponds to **Table S1** in our paper.
+Metadata for the **138 curated articles** used as the primary annotation source for ALO•HA. This selection is the input for all downstream analysis and corresponds to **Table S1** in our paper.
 
 **Included fields:**
 - `pmid` – PubMed ID  
