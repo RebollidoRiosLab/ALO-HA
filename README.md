@@ -24,11 +24,11 @@
 
 ### ⚙️ Real-Time Recalculation & Busy Indicator
 
-As soon as a user adjusts any filter (e.g., year range, disorder, molecule), ALO•HA automatically recalculates and refreshes:
+As soon as the user adjusts any filter (e.g., year range, disorder, molecule), ALO•HA automatically recalculates and refreshes:
 - Annual trends barplots  
 - Association networks  
 - Sankey diagrams  
-- Pathway enrichment heatmaps  
+- Pathway enrichment heatmap  
 - Downloadable data tables  
 
 During recalculation, a **fulfilling-square spinner** overlays the entire app interface and disappears once **all** outputs have updated.
