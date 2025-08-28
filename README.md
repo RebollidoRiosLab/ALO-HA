@@ -1,5 +1,7 @@
 # Allergy Linking Oncology Human Analyses (ALO•HA)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16986063.svg)](https://doi.org/10.5281/zenodo.16986063)
+
 **ALO•HA** is an interactive **Shiny** application developed by the [RebollidoRiosLab](https://rebollidorioslab.com/) for the AllergoOncology research community. It It allows users to explore allergy-associated molecules while integrating biological context with publication evidence.
 
 🔗 **Access the live app**: [https://rebollidorioslab.shinyapps.io/aloha/](https://rebollidorioslab.shinyapps.io/aloha/)
