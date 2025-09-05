@@ -85,9 +85,11 @@ Metadata for the **138 curated articles** used as the primary annotation source 
 
 ## 📚 Citation
 
-If you use this dataset or the ALO•HA app in your research, please cite the associated publication:
+If you use any of these datasets or the ALO•HA app in your research, please cite the associated publication:
 
-R. Bianchini, A. Escolar-Pena, V. Pick, et al., “ Molecular Signatures and Functional Pathways of Human Monocytes and Macrophages in Allergy: An EAACI AllergoOncology Scoping Review,” Allergy (2025): 1–16, https://doi.org/10.1111/all.16672.
+R. Bianchini, A. Escolar-Peña, V. Pick, et al.
+Molecular Signatures and Functional Pathways of Human Monocytes and Macrophages in Allergy: An EAACI AllergoOncology Scoping Review.
+Allergy (2025): 1–16. https://doi.org/10.1111/all.16672
 
 Additionally, please cite this repository:
 RebollidoRiosLab (2025). ALO•HA [Data]. Zenodo. https://doi.org/10.5281/zenodo.16986063
